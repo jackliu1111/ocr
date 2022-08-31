@@ -28,3 +28,10 @@ cudnn8.4.1
 152行 保存人脸图片，保存路径是savepath，ims[point1[1]:point2[1], point1[0]:point2[0]]是应存图片  
 167-183行 ocr识别返回值，返回重新识别或者识别结果  
 184行-214行 测试图片准确率。应把217行路径改为文件夹路径 
+
+## 结果
+![image](https://user-images.githubusercontent.com/48619705/187690399-c31d31b4-1594-4858-9623-5a6f11855e50.png)
+![image](https://user-images.githubusercontent.com/48619705/187690364-e815471e-6333-41ff-bfe4-deb0c343e14f.png)
+![image](https://user-images.githubusercontent.com/48619705/187690330-187f4cd1-e99c-4a72-a750-b02f3f551472.png)
+
+
