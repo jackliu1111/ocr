@@ -1,0 +1,5 @@
+train: data/train.txt
+val: data/test.txt
+test: data/test.txt
+nc: 1
+names: ['point']
